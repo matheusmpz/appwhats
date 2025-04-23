@@ -1,16 +1,38 @@
-# appwhats
+# 📱 AppWhats - Lista de Contatos do WhatsApp
 
-A new Flutter project.
+Bem-vindo ao **AppWhats**, um aplicativo Flutter para gerenciar contatos de forma simples e eficiente. 🚀
 
-## Getting Started
+## 🖼️ Captura de Tela
 
-This project is a starting point for a Flutter application.
+![Tela Inicial](public/image.png)
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📋 **Listagem de Contatos**: Visualize todos os seus contatos cadastrados.
+- 🔍 **Pesquisa**: Encontre contatos rapidamente usando o campo de busca.
+- ➕ **Adicionar Contato**: Adicione novos contatos com nome e telefone.
+- ✏️ **Editar Contato**: Atualize as informações de um contato existente.
+- ❌ **Excluir Contato**: Remova contatos que não são mais necessários.
+- 📜 **Política de Privacidade** e **Sobre**: Informações adicionais acessíveis pelo menu lateral.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tecnologias Utilizadas
+
+- **Flutter**: Framework para desenvolvimento multiplataforma.
+- **Dart**: Linguagem de programação.
+- **Sqflite**: Banco de dados local para persistência de dados.
+
+## 🚀 Como Executar o Projeto
+
+1. Certifique-se de ter o Flutter instalado. [Guia de instalação](https://docs.flutter.dev/get-started/install).
+2. Clone este repositório:
+   ```bash
+   git clone https://github.com/matheusmpz/appwhats.git
+3. Acesse o diretório do projeto:
+    ```bash
+    cd appwhats
+Instale as dependências:
+    ```bash
+        flutter pub get
+Execute o aplicativo:
+    ```bash
+        flutter run
