@@ -4,7 +4,7 @@ Bem-vindo ao **AppWhats**, um aplicativo Flutter para gerenciar contatos de form
 
 ## 🖼️ Captura de Tela
 
-![Tela Inicial](public/image.png)
+![Tela Inicial](public/capa-image.png)
 
 ## ✨ Funcionalidades
 
