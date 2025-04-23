@@ -30,9 +30,9 @@ Bem-vindo ao **AppWhats**, um aplicativo Flutter para gerenciar contatos de form
 3. Acesse o diretório do projeto:
     ```bash
     cd appwhats
-Instale as dependências:
+4. Instale as dependências:
     ```bash
         flutter pub get
-Execute o aplicativo:
+5. Execute o aplicativo:
     ```bash
         flutter run
